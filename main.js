@@ -19,4 +19,4 @@ exports.openWindow = (path, parentWindow = mainWindow) => {
     win.once('ready-to-show', () => {
         win.show();
     });
-}
+};
