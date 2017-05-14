@@ -12,7 +12,9 @@
         "sourceType": "module"
     },
     "rules": {
+        "eol-last":"warn",
         "no-const-assign": "warn",
+        "no-multiple-empty-lines": "warn",
         "no-this-before-super": "warn",
         "no-trailing-spaces": "warn",
         "no-undef": "warn",
