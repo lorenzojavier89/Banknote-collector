@@ -1,0 +1,20 @@
+{
+  "name": "banknotecollector",
+  "version": "1.0.0",
+  "description": "Customized banknote collector app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorenzo Dominguez Yates <lorenzodominguezyates@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.6.7"
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron-debug": "^1.1.0",
+    "eslint": "^3.19.0"
+  }
+}
